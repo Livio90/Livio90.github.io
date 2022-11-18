@@ -1,0 +1,187 @@
+.body {
+  font-family: "Ubuntu", sans-serif;
+  position: relative;
+}
+
+.ls {
+  height: 70px;
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+}
+
+.io {
+  width: 25%;
+  border-radius: 50%;
+}
+
+.parte1 {
+  padding-top: 100px;
+  display: flex;
+  background: linear-gradient(to bottom, black, rgb(255, 255, 255));
+  justify-items: center;
+  flex-direction: column;
+}
+
+.parte2 {
+  display: flex;
+  justify-content: center;
+}
+
+.carousel-inner {
+  display: flex;
+  justify-content: center;
+  padding-right: 70px;
+}
+
+.presimg {
+  display: flex;
+  justify-content: center;
+}
+
+.testo1 {
+  display: flex;
+  justify-content: center;
+}
+
+.sudime {
+  display: flex;
+  background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(63, 227, 57));
+  justify-content: center;
+  flex-direction: column;
+}
+
+.io2 {
+  width: 35%;
+  border-radius: 50%;
+}
+
+.titolo {
+  display: flex;
+  justify-content: center;
+}
+
+.rugbyimg {
+  display: flex;
+  justify-content: center;
+}
+
+.testo {
+  display: flex;
+  justify-content: center;
+  margin-right: 70px;
+  margin-left: 70px;
+  flex-direction: column;
+}
+
+.esperienzelav {
+  background: linear-gradient(to bottom, rgb(63, 227, 57), rgb(255, 0, 0));
+}
+
+.imgw {
+  width: 35%;
+  border-radius: 50%;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+}
+
+.progetti {
+  background: linear-gradient(to bottom, rgb(255, 0, 0), rgb(105, 243, 227));
+  position: relative;
+}
+
+.card1 {
+  display: flex;
+  justify-content: center;
+}
+
+.progetti1 {
+  display: flex;
+  justify-content: center;
+}
+
+.card-body {
+  display: flex;
+  justify-content: center;
+  background: transparent;
+  border: none;
+}
+
+.card {
+  background: transparent;
+  border: none;
+}
+
+.textsfondo {
+  background: transparent;
+}
+
+.conta {
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+}
+
+.imgconta {
+  display: flex;
+  max-width: 500px;
+  justify-content: center;
+}
+
+.contatti {
+  background: linear-gradient(to bottom, rgb(105, 243, 227), pink);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.navbar {
+  z-index: 100;
+}
+
+.info {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.imgcontatti {
+  display: flex;
+  justify-content: center;
+}
+
+.spazio {
+  height: 300px;
+}
+
+.bigpadding {
+  padding-top: 100px;
+}
+
+.debug {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show > .nav-link {
+  color: rgb(98, 175, 201);
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: red;
+}
+
+.navbar-collapse {
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=styles.css.map */
